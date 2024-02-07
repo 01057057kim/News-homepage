@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <div class="flex justify-between items-center font-inter text-[14px] w-[1220px]">
+    <div class="flex justify-between items-center font-inter text-[14px] w-[1220px] mx-auto">
         <img src="../assets/images/logo.svg" alt="svg">
         <ul class="flex gap-14 cursor-pointer">
             <li class="hover:text-s-red">Home</li>
