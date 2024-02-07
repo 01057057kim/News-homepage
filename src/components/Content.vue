@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <article class="grid grid-cols-3 gap-8 mt-10 font-inter w-[1220px]">
+    <article class="grid grid-cols-3 gap-8 mt-10 font-inter w-[1220px] mx-auto">
         <div class="col-span-2 row-span-1 w-[800px] h-[300px] mb-8">
             <img class="" src="../assets/images/image-web-3-desktop.jpg" alt="desktop">
         </div>
